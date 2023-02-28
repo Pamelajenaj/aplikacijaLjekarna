@@ -1,0 +1,11 @@
+2023-02-13 09:46:40,101 ERROR [JavaFX Application Thread] c.e.d.HelloController [MenuBarController.java:83] Pacijent je pokusao dodati novog djelatnika!
+2023-02-13 09:46:42,252 ERROR [JavaFX Application Thread] c.e.d.HelloController [MenuBarController.java:83] Pacijent je pokusao dodati novog djelatnika!
+2023-02-13 09:46:45,347 ERROR [JavaFX Application Thread] c.e.d.HelloController [MenuBarController.java:106] Pacijent je pokusao dodati novog dobavljaca!
+2023-02-13 09:46:46,931 ERROR [JavaFX Application Thread] c.e.d.HelloController [MenuBarController.java:129] Pacijent je pokusao dodati novi lijek!
+2023-02-13 09:46:48,327 ERROR [JavaFX Application Thread] c.e.d.HelloController [MenuBarController.java:151] Pacijent je pokusao dodati novog pacijenta!
+2023-02-13 09:46:49,731 ERROR [JavaFX Application Thread] c.e.d.HelloController [MenuBarController.java:83] Pacijent je pokusao dodati novog djelatnika!
+2023-02-13 10:35:10,512 ERROR [JavaFX Application Thread] c.e.d.HelloController [KosaricaSearchController.java:92] Korisnik je napravio sljedece greske: Morate odabrati lijek!
+
+2023-02-13 11:06:26,762 ERROR [JavaFX Application Thread] c.e.d.HelloController [MenuBarController.java:84] Pacijent je pokusao dodati novog djelatnika!
+2023-02-13 11:07:39,300 ERROR [JavaFX Application Thread] c.e.d.HelloController [MenuBarController.java:84] Pacijent je pokusao dodati novog djelatnika!
+2023-02-13 11:07:42,815 ERROR [JavaFX Application Thread] c.e.d.HelloController [MenuBarController.java:112] Pacijent je pokusao dodati novog dobavljaca!
