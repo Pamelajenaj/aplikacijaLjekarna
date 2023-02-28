@@ -6,9 +6,9 @@ Applikacija se pokreće tako da nad klasom "HelloApplication" stisnemo desni kli
 Kako bi se aplikacija mogla pokrenuti potrebno je otvoriti H2 > bin > prvi H2 i napraviti lokalni database 
 Potrebno je odabrati Generic H2 (Embedded) sa proizvoljnim URL, Username i Password-om. 
 Najjednostavnije: 
-URL = jdbc:h2:~/projektLjekarna
-Username = username
-Password = password
+- URL = jdbc:h2:~/projektLjekarna
+- Username = username
+- Password = password
 
 ![image](https://user-images.githubusercontent.com/85134549/221918275-b2c364e9-0ca5-40d6-91c2-22280da1c42a.png)
 
