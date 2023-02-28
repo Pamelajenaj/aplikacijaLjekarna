@@ -12,6 +12,10 @@ Najjednostavnije:
 
 ![image](https://user-images.githubusercontent.com/85134549/221918275-b2c364e9-0ca5-40d6-91c2-22280da1c42a.png)
 
+Bitno je da su URL, username i password isti kao i u kodu (u folderu dat/database.properties).
+
+![image](https://user-images.githubusercontent.com/85134549/221923222-9a25ecfc-56a3-41a0-9845-c2ad6e400a08.png)
+
 Nakon toga je potrebno importati sve tablice u bazu pošto za ovaj projekt nije korištena online baza.
 
 Tablice se importaju na sljedeći način:
@@ -25,4 +29,6 @@ CREATE TABLE PACIJENT AS SELECT * FROM CSVREAD('C:\Users\Dario\Desktop\tablice\p
 
 *Pod uvijetom da se za path koristi kopirani path (ovo je samo primjer)*
 
-Napomena: H2 terminal je potrebno zatvoriti prije pokretanje aplikacije pošto na bazi istovremeno može biti samo jedna konekcija.
+Napomene: 
+- H2 terminal je potrebno zatvoriti prije pokretanje aplikacije pošto na bazi istovremeno može biti samo jedna konekcija.
+- Nakon svakog novog ulaženja na H2 bazu potrebno je odabrati H2 (Server) umjesto (Embedded)
