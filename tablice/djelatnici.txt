@@ -1,0 +1,5 @@
+"ID","IME","PREZIME","SIFRA","FUNKCIJA"
+"1","Helena","Cetin","D01","Magistar farmacije"
+"2","Marko","Maric","D02","Farmaceutski tehnicar"
+"3","Ana","Anic","D03","Farmaceutski tehnicar"
+"4","Stipe","Stipic","D04","Farmaceutski tehnicar"
