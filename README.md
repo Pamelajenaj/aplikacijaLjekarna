@@ -32,3 +32,4 @@ CREATE TABLE PACIJENT AS SELECT * FROM CSVREAD('C:\Users\Dario\Desktop\tablice\p
 Napomene: 
 - H2 terminal je potrebno zatvoriti prije pokretanje aplikacije pošto na bazi istovremeno može biti samo jedna konekcija.
 - Nakon svakog novog ulaženja na H2 bazu potrebno je odabrati H2 (Server) umjesto (Embedded)
+- Za logiranje u samoj aplikaciji mozete koristiti "admin admin" kao username i password (sa rolom admin) ili "ivo ivo123" (sa rolom pacijent)
